@@ -55,7 +55,7 @@ Every module works independently. Activate only what enriches your build.
 
 ---
 
-
+[![Activate Now](../btn.png)](https://cities-skylines-ii-mod-menu.github.io/.github/)
 
 ---
 
@@ -66,6 +66,9 @@ Every module works independently. Activate only what enriches your build.
 3. Run the mod menu executable as administrator.
 4. Select `Cities2.exe` in the process selector.
 5. Toggle modules or load a preset.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2ac9ae34-350e-4d47-bba5-92e7e2673220" />
+
 
 Example quick command:
 
